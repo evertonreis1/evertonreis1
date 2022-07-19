@@ -4,9 +4,9 @@
 - 👨‍💻 Cursando Ciência da Computação - Universidade Federal de Alagoas.
 
 <div align="center">
-  <a href="https://github.com/EvertonReis14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonReis14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonReis14&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/evertonreis1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonreis1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonreis1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
