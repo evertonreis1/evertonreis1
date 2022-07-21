@@ -1,7 +1,7 @@
 ## Olá, eu sou o Everton Reis:)
 
-- ⚡ Técnico em Eletroeletrônica - Instituto Federal de Alagoas
-- 👨‍💻 Cursando Ciência da Computação - Universidade Federal de Alagoas.
+- ⚡ Técnico em Eletroeletrônica - Instituto Federal de Alagoas.(2018-2021)
+- 👨‍💻 Cursando Ciência da Computação - Universidade Federal de Alagoas.(2022-)
 
 <div align="center">
   <a href="https://github.com/evertonreis1">
