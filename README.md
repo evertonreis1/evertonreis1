@@ -10,7 +10,6 @@
 <div align="center">
   <a href="https://github.com/evertonreis1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonreis1&show_icons=true&bg_color=030303&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonreis1&layout=compact"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonreis1&layout=compact&bg_color=010101&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=450&langs_count=12"/>
 </div
 
@@ -18,7 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=evertonreis1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️
+### ✌️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ##
