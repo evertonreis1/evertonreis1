@@ -40,7 +40,7 @@
 
 <h2 align="center">Certificados e Licenças</h2>
 
-- [Certificado Flutter Essencial](https://www.udemy.com/certificate/UC-b219b415-08df-4543-8ee2-e47c9d1cf268/)
+- [Certificado - Flutter Essencial](https://www.udemy.com/certificate/UC-b219b415-08df-4543-8ee2-e47c9d1cf268/)
 
 <h2 align="center">Contato</h2>
 
@@ -49,7 +49,6 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="mailto:itsevertonreis@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white
-
-
-
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
