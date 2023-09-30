@@ -26,17 +26,6 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
-<h2 align="center">Experiências</h2>
-
-### Mobile Developer na Fapeal - Fundação de Amparo à Pesquisa do Estado de Alagoas (Freelance)
-- **Período**: Abril de 2023 - Atualmente (6 meses)
-- **Local**: Arapiraca, Alagoas, Brasil (Remoto)
-- **Descrição**: Desenvolvimento de um aplicativo em Flutter para a área da saúde como resultado do projeto de pesquisa "Riscos e exigências dos enfermeiros(as) na pandemia", liderado pelo professor Diego Souza, docente de enfermagem na UFAL - Arapiraca.
-
-### Pesquisador no GEDAI - Group of Engineering in Decision-Making and Artificial Intelligence (UFAL)
-- **Período**: Julho de 2023 - Atualmente (3 meses)
-- **Local**: Delmiro Gouveia, Alagoas, Brasil (Remoto)
-- **Descrição**: Trabalho em ferramentas inteligentes para apoio à segurança pública no estado de Alagoas, aplicando aprendizado de máquina e análise de dados sobre imagens e vídeos capturados por meio de veículos aéreos não tripulados.
 
 <h2 align="center">Certificados e Licenças</h2>
 
