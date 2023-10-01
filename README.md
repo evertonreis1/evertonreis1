@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Everton Reis! 👋</h1>
+<h1 align="center">Olá, sou o Everton Reis! 👋</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=evertonreis1&show_icons=true&bg_color=030303&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF" height="180em">
@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
-
 <h2 align="center">Certificados e Licenças</h2>
 
 - [Certificado - Flutter Essencial](https://www.udemy.com/certificate/UC-b219b415-08df-4543-8ee2-e47c9d1cf268/)
@@ -39,5 +38,8 @@
   </a>
   <a href="mailto:itsevertonreis@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="[https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/everton-reis-155a74236/)">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
