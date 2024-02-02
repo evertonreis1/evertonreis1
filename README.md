@@ -29,6 +29,7 @@
 <h2 align="center">Certificados e Licenças</h2>
 
 - [Certificado - Flutter Essencial](https://www.udemy.com/certificate/UC-b219b415-08df-4543-8ee2-e47c9d1cf268/)
+- [Certificado - SQL com MySQL](https://www.udemy.com/certificate/UC-912081b9-ee72-49ed-9242-b744378992e6/)
 
 <h2 align="center">Contato</h2>
 
