@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/selenium-%230072b5.svg?style=flat-square&logo=selenium&logoColor=white">
 </p>
 
 <h2 align="center">Certificados e Licenças</h2>
@@ -44,3 +45,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+</body>
