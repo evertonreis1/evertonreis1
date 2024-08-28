@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #FF6600;">Olá, sou o Everton Reis! 👋</h1>
 
 <p align="center">
-  Técnico em Eletroeletrônica formado pelo Instituto Federal de Alagoas e atualmente estudante de Ciência da Computação na Universidade Federal de Alagoas. Possuo experiência no desenvolvimento mobile com ênfase em Flutter e estou focado em Inteligência Artificial como bolsista no Group of Engineering in Decision-Making and Artificial Intelligence (GEDAI), onde contribuo em projetos e pesquisas de vanguarda.
+  Técnico em Eletroeletrônica formado pelo Instituto Federal de Alagoas e atualmente discente de Ciência da Computação na Universidade Federal de Alagoas. Possuo experiência em desenvolvimento mobile com ênfase em Flutter e estou focado em Inteligência Artificial como bolsista no Group of Engineering in Decision-Making and Artificial Intelligence (GEDAI), onde contribuo em projetos e pesquisas de vanguarda.
 </p>
 
 <p align="center">
