@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #FF6600;">Olá, sou o Everton Reis! 👋</h1>
 
 <p align="center">
-  Técnico em Eletroeletrônica pelo Instituto Federal de Alagoas e atualmente discente de Ciência da Computação na Universidade Federal de Alagoas. Tenho experiência com Node.js, além de habilidades em Flutter, React, Next.js e testes de software com jUnit e Cypress. Atualmente, sou bolsista no Group of Engineering in Decision-Making and Artificial Intelligence (GEDAI), onde trabalho em projetos e pesquisas na área de Inteligência Artificial.
+  Técnico em Eletroeletrônica pelo Instituto Federal de Alagoas e atualmente discente de Ciência da Computação na Universidade Federal de Alagoas. Tenho experiência com Node.js, além de habilidades em Flutter, React, Next.js e testes de software com jUnit e Cypress. Possuo também conhecimentos análise de dados e visualização com matplotlib e pandas. Atualmente, sou bolsista no Group of Engineering in Decision-Making and Artificial Intelligence (GEDAI), onde trabalho em projetos e pesquisas na área de Inteligência Artificial.
 </p>
 
 <p align="center">
