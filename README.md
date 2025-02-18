@@ -17,19 +17,25 @@
 💻 Algumas das tecnologias que eu domino:
 
 - **Linguagens de Programação:**  
-  [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,typescript)](https://skillicons.dev)
 
 - **Frameworks e Bibliotecas:**  
-  [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,flutter,spring,django)](https://skillicons.dev)
 
-- **Dados:**  
-  [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+- **Dados e Análise:**  
+  [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)  
+  - Conhecimentos em análise e visualização de dados com `matplotlib` e `pandas`.
+
+- **Testes de Software:**  
+  [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)  
+  - Experiência com `jUnit` e `Cypress`.
 
 - **Ferramentas e Tecnologias:**  
   [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,intellij)](https://skillicons.dev)
 
 - **Desenvolvimento Web:**  
   [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
 
 ## 🎨 Projetos Criativos
 
