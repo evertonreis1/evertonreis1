@@ -79,9 +79,3 @@ Aqui estão alguns dos meus projetos mais interessantes:
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-## ⚡ Curiosidade
-
-<p align="center">
-  Trabalho com análise e visualização de dados, minha principal linguagem é Python e estou sempre aprendendo novas tecnologias!
-</p>
