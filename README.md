@@ -8,9 +8,6 @@
   Técnico em Eletroeletrônica pelo Instituto Federal de Alagoas e atualmente discente de Ciência da Computação na Universidade Federal de Alagoas. Tenho experiência com Node.js, além de habilidades em Flutter, React, Next.js e testes de software com jUnit e Cypress. Possuo também conhecimentos em análise e visualização de dados com matplotlib e pandas. Atualmente, sou bolsista no Group of Engineering in Decision-Making and Artificial Intelligence (GEDAI), onde trabalho em projetos e pesquisas na área de Inteligência Artificial.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&lines=Welcome%2C+:)+%F0%9F%91%8B" alt="Typing SVG">
-</p>
 
 ## 🌟 Habilidades Tecnológicas
 
@@ -44,7 +41,8 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 1. [🐾 AcolhePet](https://github.com/evertonreis1/AcolhePet) - Site dedicado a conectar animais de estimação com novos lares amorosos. 
 2. [⚡ FlashSort](https://github.com/evertonreis1/flashsort) - Estudo experimental sobre o algoritmo de ordenação FlashSort, analisando sua eficiência e desempenho. 
-3. [🌦️ Estação Meteorológica](https://github.com/evertonreis1/weather-station) - Projeto que utiliza ESP32 para coletar dados meteorológicos e exibi-los em uma página web responsiva. 
+3. [🌦️ Estação Meteorológica](https://github.com/evertonreis1/weather-station) - Projeto utiliza ESP32 para coletar dados meteorológicos e exibi-los em uma página web responsiva.
+4. [🧾 Eleiçoes2024](https://github.com/evertonreis1/elei-oes) - Projeto utiliza Pandas, Matplotlib, Seaborn e conceitos estatísticos para analisar o comparecimento e a abstenção nas eleições presidenciais de 2024.
 
 ## 📊 Estatísticas do GitHub
 
